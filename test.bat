@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\Chrome" -open %cd%/index.html

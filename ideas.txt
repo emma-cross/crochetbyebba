@@ -1,0 +1,11 @@
+- page with all my projects
+   - photo
+   - pattern (name + link to etsy/ravelry/insta/etc., 
+   - yarn (name, weight, mtl, hook size)
+   - time taken (duration or start-end date)
+   - recipient?
+- google form embeds
+   - general request form
+   - stashbusting projects
+      - photos of yarn i have
+      - photos of possible stashbusting makes (see notes app)

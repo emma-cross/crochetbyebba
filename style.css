@@ -1,0 +1,100 @@
+h1 {
+    color: rgb(98, 0, 143);
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 72px;
+    display: block;
+}
+h2 {
+    color: rgb(98, 0, 143);
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    display: block;
+}
+h3 {
+    color: rgb(98, 0, 143);
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    display: block;
+}
+p {
+    color: rgb(117, 47, 150);
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+}
+ul {
+    color: rgb(117, 47, 150);
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    display: block;
+}
+code {
+    color: black;
+    text-align: left;
+    font-family: Consolas;
+    font-size: 16px;
+    display: block;
+}
+.desc {
+    color: rgb(117, 47, 150);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+}
+.button {
+    background-color: rgb(145, 105, 168);
+    border: solid black 2px;
+    display: inline-block;
+    align-items: center;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 16px;
+    margin: 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.button:hover {
+    background-color: rgb(98, 0, 143);
+    color: white;
+}
+.button-center {
+    position: absolute;
+    transform: translate(-50%, -20%);
+}
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 37.5%;
+}
+.video-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side2 */
+.row {
+    display: flex;
+}
+.column2 {
+    flex: 50.0%;
+    padding: 5px;
+}
